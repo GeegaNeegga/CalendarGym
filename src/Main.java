@@ -62,6 +62,7 @@ public class Main  {
 
         System.out.println(java.time.LocalDate.now());
 
+        System.out.println("git dobavlen");
         }
 
     }
